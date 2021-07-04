@@ -1,1 +1,3 @@
-# credit_card_decision_dashboard
+# Overview
+
+This dashboard was created for Georgetown Operations on Decision Support Systems. The goal of this dashboard is to provide a hypothetical customer service representative, a dashboard for dealing with new customers who they are calling with. The top left of the dashboard is used for general summary statistics, the top right of the dashboard is used for the analysis of specific products that experience different risk levels. The bottom left of the dashboard can be used to analyze a specific customer's debt and the time that it takes to pay off the debts. The bottom center and right of the dashboard can be used to visualize a sensitivity table for paying off debt and a graph for analysis chosen. 
